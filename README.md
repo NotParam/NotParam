@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NotParam
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me paramchauhan1297@gmail.com
+- 📫 How to reach me on discord (https://discord.gg/tqZxuHvY8A)
 
 <!---
 NotParam/NotParam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
